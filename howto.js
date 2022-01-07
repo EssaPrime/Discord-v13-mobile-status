@@ -1,7 +1,7 @@
 /*
   First Of All, Go To Your Main [index.js] File,
   2 -  Go To The Options.js File
-  [node_modules/discord.js/src/utl/Options.js]
+  [node_modules/discord.js/src/util/Options.js]
   3 - CTRL + F For [$browser]
   4 - Then Copy The Steps Below
   Nethod Fixed By ! EssaPrime#0001
