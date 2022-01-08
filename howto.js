@@ -1,10 +1,9 @@
 /*
-  First Of All, Go To Your Main [index.js] File,
-  2 -  Go To The Options.js File
+  1 -  Go To The Options.js File, Usually In The Path Below
   [node_modules/discord.js/src/util/Options.js]
-  3 - CTRL + F For [$browser]
-  4 - Then Copy The Steps Below
-  Nethod Fixed By ! EssaPrime#0001
+  2 - CTRL + F For [$browser]
+  3 - Then Copy The Steps Below
+  Method Fixed And Improved By ! EssaPrime#0001
  */
  
  ws: {
